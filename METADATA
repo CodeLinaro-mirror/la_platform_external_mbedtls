@@ -15,7 +15,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/Mbed-TLS/mbedtls.git"
-    version: "d934b47669d1cc60c72caecae2ae2a45aea70c79"
+    version: "e185d7fd85499c8ce5ca2a54f5cf8fe7dbe3f8df"
     closest_version: "v3.6.5"
   }
 }
